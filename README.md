@@ -53,7 +53,7 @@
 ## 📡 Let's Connect and have a Chat!:
 
 <p align="left">
-<a href="[www.linkedin.com/in/расул-токтобаев-8981172b3s](https://www.linkedin.com/feed/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="beknur-zheenkulov | LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/%D1%80%D0%B0%D1%81%D1%83%D0%BB-%D1%82%D0%BE%D0%BA%D1%82%D0%BE%D0%B1%D0%B0%D0%B5%D0%B2-8981172b3/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="beknur-zheenkulov | LinkedIn" height="30" width="30" /></a>
 <a href="https://t.me/XeLLiAn0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="XeLLiAn0 | Telegram" height="30" width="30" /></a>
 <a href="mailto:d.zheenkul@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="d.zheenkul@gmail.com | Gmail" height="30" width="30" /></a>
 </p>
