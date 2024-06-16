@@ -58,3 +58,5 @@
 <a href="https://t.me/XeLLiAn0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="XeLLiAn0 | Telegram" height="30" width="30" /></a>
 <a href="mailto:d.zheenkul@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="d.zheenkul@gmail.com | Gmail" height="30" width="30" /></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasulToktobaev)](https://github.com/anuraghazra/github-readme-stats)
