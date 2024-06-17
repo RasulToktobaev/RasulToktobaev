@@ -1,4 +1,4 @@
-![Header](https://github.com/RasulToktobaev/RasulToktobaev/blob/main/assets/header.png)
+![Header](https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png)
 
 # Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !
 
