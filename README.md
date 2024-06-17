@@ -1,6 +1,6 @@
 ![Header](https://github.com/RasulToktobaev/RasulToktobaev/blob/main/assets/header.png)
 
-## Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer
+# Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !
 
 <p>Languages and Tools</p> 
 
@@ -35,13 +35,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
   </a>
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
   </a>
@@ -59,9 +52,7 @@
 <a href="mailto:d.zheenkul@gmail.com" target="blank"><img align="center" src="https://rskrf.ru/upload/iblock/ebb/zim2ts876a4ithikdg9jf0vdp1qktgtm.png" alt="d.zheenkul@gmail.com | Gmail" height="30" width="30" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasulToktobaev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasulToktobaev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RasulToktobaev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
