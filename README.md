@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png" style="height: 200px; width: 800px; object-fit: cover;">
+<p align="center" style="display: flex; justify-content: center;">
+  <span style="display: inline-block; overflow: hidden; width: 800px; height: 200px;">
+    <img src="https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png" style="height: 100%; width: 100%; object-fit: cover;">
+  </span>
 </p>
 
 
