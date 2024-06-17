@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png" height="200">
+  <img src="https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png" height="180" width="600">
 </p>
 
 # Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !
