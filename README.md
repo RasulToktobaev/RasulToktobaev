@@ -1,4 +1,6 @@
-![Header](https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png)
+<p align="center">
+  <img src="https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png" height="200">
+</p>
 
 # Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !
 
