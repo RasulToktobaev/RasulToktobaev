@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png" height="180" width="600" >
+  <img src="https://github.com/RasulToktobaev/RasulToktobaev/blob/main/header.png" style="height: 200px; width: 800px; object-fit: cover;">
 </p>
+
 
 # Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !
 
