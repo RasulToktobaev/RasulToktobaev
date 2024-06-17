@@ -2,7 +2,7 @@
 
 # Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !
 
-<p>Languages and Tools</p> 
+## Languages and Tools !
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -55,4 +55,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasulToktobaev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RasulToktobaev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulToktobaev&layout=pie&theme=dark&bg_color=FFD700&title_color=ffffff&text_color=ffffff">
+  </a>
+</p>
