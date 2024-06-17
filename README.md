@@ -57,6 +57,8 @@
 <a href="mailto:d.zheenkul@gmail.com" target="blank"><img align="center" src="https://rskrf.ru/upload/iblock/ebb/zim2ts876a4ithikdg9jf0vdp1qktgtm.png" alt="d.zheenkul@gmail.com | Gmail" height="30" width="30" /></a>
 </p>
 
+## Statistics
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasulToktobaev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
