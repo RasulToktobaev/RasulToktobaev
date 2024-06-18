@@ -54,7 +54,7 @@
 <a href="https://www.linkedin.com/in/%D1%80%D0%B0%D1%81%D1%83%D0%BB-%D1%82%D0%BE%D0%BA%D1%82%D0%BE%D0%B1%D0%B0%D0%B5%D0%B2-8981172b3/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="Rasul Toktobaev" height="30" width="30" /></a>
 <a href="https://vk.com/rasul_18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" alt="" height="30" width="30" /></a>
 <a href="https://t.me/Rasul_Oy_Boy18" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="https://t.me/Rasul_Oy_Boy18" | Telegram" height="30" width="30" /></a>
-<a href="mailto:d.zheenkul@gmail.com" target="blank"><img align="center" src="https://rskrf.ru/upload/iblock/ebb/zim2ts876a4ithikdg9jf0vdp1qktgtm.png" alt="d.zheenkul@gmail.com | Gmail" height="30" width="30" /></a>
+<a href="toktobaevrasul2002@bk.ru" target="blank"><img align="center" src="https://rskrf.ru/upload/iblock/ebb/zim2ts876a4ithikdg9jf0vdp1qktgtm.png" alt="" | Gmail" height="30" width="30" /></a>
 </p>
 
 ## Statistics
