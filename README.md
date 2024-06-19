@@ -5,8 +5,9 @@
 </p>
 
 
-<p style="color: red; font-size: 24px;"> Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !</p>
+<!-- <p style="color: red; font-size: 24px;"> Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !</p> -->
 
+#  Hi all! My name is Rasul Toktobaev and I am a beginner Full Stack developer !
 
 ## Languages and Tools !
 
