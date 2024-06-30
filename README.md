@@ -63,9 +63,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasulToktobaev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulToktobaev&layout=pie&theme=dark&bg_color=FFD700&title_color=ffffff&text_color=ffffff">
-  </a>
-</p> -->
