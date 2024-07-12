@@ -48,6 +48,9 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="visual studio code " width="40" height="40" />
   </a>
+    <a href="https://www.jetbrains.com/ru-ru/webstorm/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="webstorm" width="40" height="40" />
+  </a>
 </p>
 
 ##  I'm on social networks!
